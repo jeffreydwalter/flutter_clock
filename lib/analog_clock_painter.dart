@@ -207,6 +207,6 @@ class AnalogClockPainter extends CustomPainter {
     digitalClockTP.paint(
         canvas,
         size.center(
-            -digitalClockTP.size.center(Offset(0.0, -size.shortestSide / 6))));
+            -digitalClockTP.size.center(Offset(0.0, -size.shortestSide / 4))));
   }
 }

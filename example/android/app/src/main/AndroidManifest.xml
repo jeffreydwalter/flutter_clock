@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="flutter.furkantektas.com.analog_clock_example">
+    package="flutter.jeffreydwalter.com.flutter_clock_example">
    <application
         android:label="Analog Clock Example"
         android:name="${applicationName}"

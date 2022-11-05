@@ -1,9 +1,9 @@
 # Flutter Analog Clock Widget
-[![pub package](https://img.shields.io/pub/v/analog_clock.svg)](https://pub.dartlang.org/packages/analog_clock)
+[![pub package](https://img.shields.io/pub/v/flutter_clock.svg)](https://pub.dartlang.org/packages/flutter_clock)
 
-Clean and fully customizable analog clock widget.
+Clean and fully customizable clock widget.
 
-![Flutter Analog Clock Screenshot](https://github.com/furkantektas/analog_clock/raw/master/doc/sample_screenshot.png?raw=true)
+![Flutter Analog Clock Screenshot](https://github.com/jeffreydwalter/flutter_clock/raw/master/doc/sample_screenshot.png?raw=true)
 
 
 ## Installation
@@ -12,7 +12,7 @@ In your `pubspec.yaml` file within your Flutter Project:
 
 ```yaml
 dependencies:
-  analog_clock: ^0.1.0
+  flutter_clock: ^0.1.0
 ```
 
 ## Features
@@ -25,7 +25,7 @@ dependencies:
 ## Usage
 
 ```dart
-import 'package:analog_clock/analog_clock.dart';
+import 'package:flutter_clock/analog_clock.dart';
 
 
 AnalogClock(
@@ -51,9 +51,9 @@ AnalogClock(
 ## Parameters
 
 
-![Flutter Analog Clock Parameters](https://github.com/furkantektas/analog_clock/raw/master/doc/visual_doc.png?raw=true)
+![Flutter Analog Clock Parameters](https://github.com/jeffreydwalter/flutter_clock/raw/master/doc/visual_doc.png?raw=true)
 
 
 ## Example
 
-Demo app can be found in the [`example/`](https://github.com/furkantektas/analog_clock/tree/master/example) folder.
+Demo app can be found in the [`example/`](https://github.com/jeffreydwalter/flutter_clock/tree/master/example) folder.

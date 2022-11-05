@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-import 'package:analog_clock/analog_clock.dart';
+import 'package:flutter_clock/analog_clock.dart';
 
 void runDemo() async {
   await SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp]);

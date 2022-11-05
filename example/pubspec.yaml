@@ -1,5 +1,5 @@
-name: analog_clock_example
-description: Demonstrates how to use the analog_clock plugin.
+name: flutter_clock_example
+description: Demonstrates how to use the flutter_clock plugin.
 publish_to: 'none'
 
 environment:
@@ -15,7 +15,7 @@ dev_dependencies:
 
   flutter_lints: ^1.0.0
 
-  analog_clock:
+  flutter_clock:
     path: ../
 
 flutter:

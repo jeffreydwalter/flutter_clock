@@ -1,6 +1,6 @@
 {
-    "name": "analog_clock_example",
-    "short_name": "analog_clock_example",
+    "name": "flutter_clock_example",
+    "short_name": "flutter_clock_example",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

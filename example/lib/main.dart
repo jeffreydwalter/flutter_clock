@@ -1,7 +1,7 @@
-// import 'package:analog_clock_example/demo.dart';
+// import 'package:flutter_clock_example/demo.dart';
 import 'package:flutter/material.dart';
 
-import 'package:analog_clock/analog_clock.dart';
+import 'package:flutter_clock/digital_clock.dart';
 
 void main() => runApp(const MyApp());
 //void main() => runDemo();
@@ -17,6 +17,6 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) => const MaterialApp(
           home: Scaffold(
-        body: AnalogClock(),
+        body: DigitalClock(textScaleFactor: 2.5),
       ));
 }

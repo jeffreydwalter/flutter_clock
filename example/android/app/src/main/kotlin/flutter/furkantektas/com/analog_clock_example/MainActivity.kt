@@ -1,4 +1,4 @@
-package flutter.furkantektas.com.analog_clock_example
+package flutter.jeffreydwalter.com.flutter_clock_example
 
 import io.flutter.embedding.android.FlutterActivity
 
